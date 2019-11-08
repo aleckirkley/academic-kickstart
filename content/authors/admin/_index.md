@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate in Physics
+role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
-- name: University of Michigan
+- name: University of Michigan Physics Department
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -34,9 +34,8 @@ education:
   - course: MS in Physics
     institution: University of Michigan
     year: 2018
-  - course: BS in Physics, BA in Mathematics
+  - course: BS in Physics, BA in Mathematics (summa cum laude)
     institution: University of Rochester
-    honors: Summa Cum Laude, Phi Beta Kappa
     year: 2017
 
 # Social/Academic Networking
@@ -72,9 +71,10 @@ social:
 #- Visitors
 ---
 
-I am a PhD candidate in the University of Michigan Physics Department, working with Dr. Mark Newman on complex networks and statistical physics. I did my undergraduate studies at the University of Rochester, and began my career in complex systems working with Dr. Gourab Ghoshal in the physics department there. 
+I am a PhD candidate in the University of Michigan Physics Department, working with 
+<a href="http://www-personal.umich.edu/~mejn/">Dr. Mark Newman</a> on complex networks and statistical physics. I did my undergraduate studies at the University of Rochester, and began my career in complex systems working with Dr. Gourab Ghoshal in the physics department there. 
 
-I am interested in a broad array of problems, including stsatistical inference of network models, social network dynamics, urban mobility, socioeconomic inequality, and fast algorithms for analyzing statistical physics systems. My research involves a balance of mathematical theory, computer simulation, and analysis of empirical data. 
+I am interested in a broad array of problems, including bayesian inference in network models, social network dynamics, urban mobility, socioeconomic inequality, and fast algorithms for analyzing statistical physics systems. My research involves a balance of mathematical theory, computer simulation, and analysis of empirical data. 
 
 I am fortunate to be supported by an NDSEG Fellowship through the department of Defense, and I am also a recipient of the NSF Graduate Research Fellowship. 
 
