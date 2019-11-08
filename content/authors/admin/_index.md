@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include complex systems, network theory, and statistical physics
 
 interests:
 - Complex Systems
@@ -71,3 +71,11 @@ social:
 #- Researchers
 #- Visitors
 ---
+
+I am a PhD candidate in the University of Michigan Physics Department, working with Dr. Mark Newman on complex networks and statistical physics. I did my undergraduate studies at the University of Rochester, and began my career in complex systems working with Dr. Gourab Ghoshal in the physics department there. 
+
+I am interested in a broad array of problems, including stsatistical inference of network models, social network dynamics, urban mobility, socioeconomic inequality, and fast algorithms for analyzing statistical physics systems. My research involves a balance of mathematical theory, computer simulation, and analysis of empirical data. 
+
+I am fortunate to be supported by an NDSEG Fellowship through the department of Defense, and I am also a recipient of the NSF Graduate Research Fellowship. 
+
+
