@@ -21,9 +21,9 @@ organizations:
 bio: My research interests include complex systems, network theory, and statistical physics
 
 interests:
-- Complex Systems
-- Network Theory
+- Network Science
 - Urban Science
+- Complex Systems
 - Statistical Physics
 
 education:
@@ -73,7 +73,7 @@ social:
 I am a PhD candidate in the University of Michigan Physics Department, working with 
 <a href="http://www-personal.umich.edu/~mejn/">Mark Newman</a> on complex networks and statistical physics. I did my undergraduate studies at the University of Rochester, and began my journey in complex systems working with <a href="http://gghoshal.pas.rochester.edu/">Gourab Ghoshal</a>. 
 
-I am interested in a broad array of problems, including inference in network models, social network dynamics, urban mobility, socioeconomic inequality, and fast algorithms for analyzing statistical physics systems. My research involves a balance of mathematical theory, computer simulation, and analysis of empirical data. I am fortunate to be supported by an <a href="https://ndseg.sysplus.com/">NDSEG Fellowship</a> through the Department of Defense, and I am also a recipient of the <a href="https://www.nsfgrfp.org/">NSF Graduate Research Fellowship</a>. 
+My research interests are in the theory and applications of complex networks and statistical physics, including statistical inference in network models, urban mobility, social network dynamics, socioeconomic inequality, and fast algorithms for analyzing statistical physics systems. My research involves a balance of mathematical theory, computer simulation, and analysis of empirical data. I am fortunate to be supported by an <a href="https://ndseg.sysplus.com/">NDSEG Fellowship</a> through the Department of Defense, and I am also a recipient of the <a href="https://www.nsfgrfp.org/">NSF Graduate Research Fellowship</a>. 
 
 For more info, check out my <a href="https://scholar.google.com/citations?user=42b-2NcAAAAJ">Google Scholar</a> page. 
 
