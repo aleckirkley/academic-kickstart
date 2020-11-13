@@ -71,10 +71,16 @@ social:
 ---
 
 I am a PhD candidate in the University of Michigan Physics Department, working with 
-<a href="http://www-personal.umich.edu/~mejn/">Mark Newman</a> on complex networks and statistical physics. I did my undergraduate studies at the University of Rochester, and began my studies in complex systems working with <a href="http://gghoshal.pas.rochester.edu/">Gourab Ghoshal</a>. 
+<a href="http://www-personal.umich.edu/~mejn/">Mark Newman</a> on complex networks and statistical physics. I did my undergraduate studies at the University of Rochester, and began my studies in complex systems working with <a href="http://gghoshal.pas.rochester.edu/">Gourab Ghoshal</a>. I am fortunate to be supported by an <a href="https://ndseg.sysplus.com/">NDSEG Fellowship</a> through the Department of Defense, and I am also a recipient of the <a href="https://www.nsfgrfp.org/">NSF Graduate Research Fellowship</a>. 
 
-I am interested in the theory of complex networks and statistical physics, as well as their applications in urban and social systems. Topics of my research include algorithms for statistical inference on networks, human mobility and the structure and function of urban systems, social network dynamics, and the spatial manifestation of socioeconomic inequality. My research involves a balance of mathematical theory, computer simulation, and analysis of empirical data. I am fortunate to be supported by an <a href="https://ndseg.sysplus.com/">NDSEG Fellowship</a> through the Department of Defense, and I am also a recipient of the <a href="https://www.nsfgrfp.org/">NSF Graduate Research Fellowship</a>. 
+I am interested in the theory of complex networks and statistical physics, as well as their applications in urban and social systems. Topics of my research include statistical inference on network data, human mobility and the structure and function of urban systems, social network dynamics, and the spatial manifestation of socioeconomic inequality. My research involves a balance of mathematical theory, computer simulation, and analysis of empirical data. For more info, check out my <a href="https://scholar.google.com/citations?user=42b-2NcAAAAJ">Google Scholar</a> page.  
 
-For more info, check out my <a href="https://scholar.google.com/citations?user=42b-2NcAAAAJ">Google Scholar</a> page. 
+I am also a member of the Michigan Data Informed Cities for Everyone (M-DICE) program, an interdisciplinary team of students and faculty led by <a href="https://web.eecs.umich.edu/~dkoutra/">Danai Koutra</a> partnering with the Detroit city government to develop data-driven solutions to practical issues regarding urban mobility and transportation systems. I have also been a member of the Michigan Data Science Team through the <a href="https://web.eecs.umich.edu/~dkoutra/">Michigan Institute for Data Science (MIDAS)</a>, working on various projects using deep learning techniques. 
+
+
+
+
+
+
 
 
